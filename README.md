@@ -1,8 +1,5 @@
-Ryan Anderson
+CS STUDENT (BSc Computer Science)
 ------------------------------
-
-
-> CS STUDENT
 > 
 > Web Dev 
 > - JS
