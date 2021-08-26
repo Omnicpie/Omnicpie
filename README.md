@@ -1,4 +1,4 @@
-CS STUDENT (BSc Computer Science)
+CS GRADUATE (BSc Computer Science)
 ------------------------------
 > 
 > Web Dev 
@@ -8,7 +8,8 @@ CS STUDENT (BSc Computer Science)
 > - PHP
 > - reactjs
 > - nodejs
+> - angular
+> - typescript
 > 
 >>   also experience in python, java, c
 
->Currently learning typescript and soon angularjs
