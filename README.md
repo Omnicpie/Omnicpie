@@ -1,4 +1,4 @@
-CS GRADUATE (BSc Computer Science)
+Software Developer
 ------------------------------
 > 
 > Web Dev 
@@ -10,6 +10,10 @@ CS GRADUATE (BSc Computer Science)
 > - nodejs
 > - angular
 > - typescript
+> - ruby on rails
+> - mongodb
+> - SQL
+> - react native
 > 
 >>   also experience in python, java, c
 
