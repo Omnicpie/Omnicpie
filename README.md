@@ -14,8 +14,9 @@ Language Knowledge
  - mongodb
  - SQL
  - react native
+ - Java
  
->   also experience in python, java, c
+>   also experience in python, c
 
 <details align="center">
    <summary> <samp>&#9776; More Details</samp></summary>
